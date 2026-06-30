@@ -80,13 +80,13 @@ Main Features:
 
 FUTURE_DS_01/
 
-├── data/
+├── [Sales Data](Superstore.csv)
 
-├── dashboard/
+├── [DashBoard](SalesDashboard.pbix)
 
-├── report/
+├── [report](SalesDashboard.pdf)
 
-├── images/
+├── ![image](dashboard-1.png)
 
 └── README.md
 
@@ -94,12 +94,12 @@ FUTURE_DS_01/
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot here after uploading it.)
+![DashBoard](dashboard-2.png)
 
 ---
 
 ## Author
 
-Santhi Priya
+**Kiran Sai**
 
 Future Interns – Data Science & Analytics Intern
