@@ -86,7 +86,7 @@ FUTURE_DS_01/
 
 ├── [report](SalesDashboard.pdf)
 
-├── ![image](dashboard.png)
+├── [Image]
 
 └── README.md
 
