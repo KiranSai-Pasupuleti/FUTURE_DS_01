@@ -86,7 +86,7 @@ FUTURE_DS_01/
 
 ├── [report](SalesDashboard.pdf)
 
-├── ![image](dashboard-1.png)
+├── ![image](dashboard.png)
 
 └── README.md
 
@@ -94,7 +94,7 @@ FUTURE_DS_01/
 
 ## Dashboard Preview
 
-![DashBoard](dashboard-2.png)
+![DashBoard](dashboard.png)
 
 ---
 
